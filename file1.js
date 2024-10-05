@@ -4,10 +4,10 @@
  * just uncomment them to implement them, if you don't mind.
  */
 
-// function feature1() {
-//  console.log("FEATURE 1 IS SO COOL");
-//  return new Promise(() => "to be cool");
-// }
+function feature1() {
+ console.log("FEATURE 1 IS SO COOL");
+ return new Promise(() => "to be cool");
+}
 
 // function feature2() {
 //   console.log("FEATURE 1 IS KINDA A LIAR");
